@@ -17,3 +17,4 @@ With Text:
 With Text:
 [qs adf="example.com"] Text [/qs]
 
+Tam6
