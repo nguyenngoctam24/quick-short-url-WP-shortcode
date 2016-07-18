@@ -5,16 +5,16 @@ Include it in file function.php of themes or paste its content at the end of fil
  Follow the instructions in the file content (Setup your API key to can use).
 # Usage
 # Ouo.io:
-[qs ouo="example.com"]
-# With Text:
+[qs ouo="example.com"]<br>
+ Link in Text:<br>
 [qs ouo="example.com"] Text [/qs]
 # Shorte.st:
-[qs shst="example.com"]
-# With Text:
-[qs shst="example.com"] Text [/qs]
+[qs shst="example.com"]<br>
+ Link in Text:<br>
+[qs shst="example.com"] Text [/qs]<br>
 # Adf.ly:
-[qs adf="example.com"]
-# With Text:
+[qs adf="example.com"]<br>
+Link in Text:<br>
 [qs adf="example.com"] Text [/qs]
 
 
